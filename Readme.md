@@ -11,13 +11,13 @@ Le regole rispecchiano perfettamente il classico gioco del solitario, con divers
 ** Viene assegnato un punteggio di 5 punti per ogni carta scoperta e 10 punti per ogni carta depositata nel foundation.
 
 * A tempo
-** Un timer segna lo scorrere del tempo ed ogni 10 secondi vengono sottratti 2 punti
+  * Un timer segna lo scorrere del tempo ed ogni 10 secondi vengono sottratti 2 punti
 
 * Draw
-** Si scopre una carta per volta
+  * Si scopre una carta per volta
 
 * Draw3
-** Si scoprono 3 carte per volta
+  * Si scoprono 3 carte per volta
 
 Le modalità di gioco possono essere combinate.
 
