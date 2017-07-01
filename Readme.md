@@ -8,7 +8,7 @@ Gioco del solitario sviluppato in Unity
 Le regole rispecchiano perfettamente il classico gioco del solitario, con diverse modalità di gioco:
 
 * Classica
-** Viene assegnato un punteggio di 5 punti per ogni carta scoperta e 10 punti per ogni carta depositata nel foundation.
+  * Viene assegnato un punteggio di 5 punti per ogni carta scoperta e 10 punti per ogni carta depositata nel foundation.
 
 * A tempo
   * Un timer segna lo scorrere del tempo ed ogni 10 secondi vengono sottratti 2 punti
