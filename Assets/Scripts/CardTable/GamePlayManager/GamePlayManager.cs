@@ -73,10 +73,10 @@ namespace CardTable
 
 		void Awake()
 		{
-            if (GamePlayManager._Instance == null) {
-                Debug.LogError("La scena iniziale è Start Menu. Aprire la scena Start Menu e premere Play");
-                Application.Quit();
-            }
+            //if (GamePlayManager._Instance == null) {
+            //    Debug.LogError("La scena iniziale è Start Menu. Aprire la scena Start Menu e premere Play");
+            //    Application.Quit();
+            //}
 
 			_instance = this;
 

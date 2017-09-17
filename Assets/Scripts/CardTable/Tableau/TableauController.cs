@@ -60,7 +60,7 @@ namespace CardTable
 			// Eseguo al massimo per 5 secondi
 			float delta = 0;
 
-			for (int i = 0; delta < 5f; i++) {
+			for (int i = 0; delta < 10f; i++) {
 				Pile pile = piles [i % GameDefinitions.NUMBER_OF_PILES];
 
 				if (pile.LastCard != null) {
